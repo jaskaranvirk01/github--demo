@@ -1,0 +1,13 @@
+#gls{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+#cla{
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+    
+}
